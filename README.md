@@ -1,4 +1,6 @@
-# Factual Answers Xploration Day Activity
+# OpenAI Xploration Day Activity
+
+Idea of the activity is consuming OpenAI API models.
 
 ## Setup ML Env
 
