@@ -1,4 +1,4 @@
-# Factual Answers Xperimentation Day Activity
+# Factual Answers Xploration Day Activity
 
 ## Setup ML Env
 
@@ -15,7 +15,9 @@
 - Open Notebook `openapi_factual_answering.ipynb` with Jupyter
 - Replace `openai.api_key` by valid key and execute the Notebook
 
-## Challenge for the day:
+## Options for the day:
 
-- Incorporate factual answers as a "Historical Facts" Angular Component.
-- Cache responses so no API tokens are wasted using BE Service
+- Incorporate factual answers as a "Factual Answers" Angular Component.
+ Or
+- Create an entire new idea using other [OpenAI Model Example](https://beta.openai.com/examples)
+
