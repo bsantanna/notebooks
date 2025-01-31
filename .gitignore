@@ -14,3 +14,5 @@
 common_libraries/transformers/*/output/
 common_libraries/transformers/*/tmp_trainer/
 common_libraries/transformers/*/wandb/
+
+challenges/information_extraction/tmp
